@@ -1,3 +1,3 @@
 # hello-world-opengl
 
-![Image](image.png "Image")
+![Image](image.PNG "Image")
