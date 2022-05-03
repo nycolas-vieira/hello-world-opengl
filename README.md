@@ -31,4 +31,4 @@ while (!glfwWindowShouldClose(window))
 5. Remove comments
 
 ## FINAL RESULT
-![Image](image.png "Image")
+![Image](image.PNG "Image")
